@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.swiperefreshlayout.widget.SwipeRefreshLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/swiperefresh_fabrykamemow"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#000000">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycle_fabrykamemow"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginBottom="50dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/reload_fabrykamemow"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:background="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/recycle_fabrykamemow"
+        app:srcCompat="@android:drawable/stat_notify_sync" />
+
+    <ImageButton
+        android:id="@+id/previous_page_fabrykamemow"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="110dp"
+        android:layout_marginLeft="110dp"
+        android:background="#000000"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/recycle_fabrykamemow"
+        app:srcCompat="@android:drawable/ic_media_rew" />
+
+    <ImageButton
+        android:id="@+id/next_page_fabrykamemow"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:background="#000000"
+        app:layout_constraintStart_toEndOf="@+id/number_page_fabrykamemow"
+        app:layout_constraintTop_toBottomOf="@+id/recycle_fabrykamemow"
+        app:srcCompat="@android:drawable/ic_media_ff" />
+
+    <EditText
+        android:id="@+id/number_page_fabrykamemow"
+        android:layout_width="60dp"
+        android:layout_height="50dp"
+        android:layout_marginStart="10dp"
+        android:layout_marginLeft="10dp"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="1"
+        android:inputType="numberSigned"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#8C8888"
+        app:layout_constraintStart_toEndOf="@+id/previous_page_fabrykamemow"
+        app:layout_constraintTop_toBottomOf="@+id/recycle_fabrykamemow" />
+
+    <TextView
+        android:id="@+id/network_lost"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFC107"
+        android:fontFamily="@font/abeezee"
+        android:gravity="center"
+        android:text="Network connection is not avalible!"
+        android:textColor="#000000"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toBottomOf="@+id/recycle_fabrykamemow"
+        tools:layout_editor_absoluteX="0dp"
+        tools:visibility="invisible" />
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+</androidx.swiperefreshlayout.widget.SwipeRefreshLayout>
