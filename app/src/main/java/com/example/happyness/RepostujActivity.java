@@ -53,6 +53,7 @@ public class RepostujActivity extends AppCompatActivity implements MyAdapter.OnN
     private List<String> temp_tytuly = new ArrayList();
     private List<String> tytul = new ArrayList();
     private List<Integer> plusy = new ArrayList();
+    String xd = "I tak to kurwa nie działa";
     //private List<String> komentarz = new ArrayList();
     private List<String> kategorie = new ArrayList();
     //private List<String> strony_do_odwiedzenia = new ArrayList();
