@@ -57,6 +57,7 @@ public class ChamskoActivity extends AppCompatActivity implements MyAdapter.OnNo
     private boolean czy_odswiezyc = true;
     private boolean skonczone_pierwszy_raz = true;
     private boolean skonczone = true;
+    private boolean nie_chce_mi_sie_tego_robic_wiec_robie_bezsensowna_zmienna = true;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -334,9 +335,9 @@ public class ChamskoActivity extends AppCompatActivity implements MyAdapter.OnNo
             memeski.clear();
             plusy.clear();
             if (item.equals("Główna")) {
-                connect_server_chamsko(1, "");
+                if(!nie_chce_mi_sie_tego_robic_wiec_robie_bezsensowna_zmienna)
+                    connect_server_chamsko(1, "");
                 aktualna_kategoria = "";
-
             } else {
                 aktualna_kategoria = kategorie.get(position);
                 connect_server_chamsko(1, kategorie.get(position));

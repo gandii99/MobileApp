@@ -59,6 +59,7 @@ public class KwejkActivity extends AppCompatActivity implements MyAdapter.OnNote
     private boolean skonczone = true;
     private boolean first_connect = true;
     private int current_page = 1;
+    private boolean nie_chce_mi_sie_tego_robic_wiec_robie_bezsensowna_zmienna = true;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -362,7 +363,8 @@ public class KwejkActivity extends AppCompatActivity implements MyAdapter.OnNote
             plusy.clear();
             first_connect = true;
             if (item.equals("Główna")) {
-                connect_server_kwejk(1, "");
+                if(!nie_chce_mi_sie_tego_robic_wiec_robie_bezsensowna_zmienna)
+                    connect_server_kwejk(1, "");
                 aktualna_kategoria = "";
 
             } else {

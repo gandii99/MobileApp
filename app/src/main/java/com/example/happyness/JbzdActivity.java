@@ -62,6 +62,7 @@ public class JbzdActivity extends AppCompatActivity implements MyAdapter.OnNoteL
     private boolean czy_pobrac_tytyl = false;
     private boolean skonczone_pierwszy_raz = true;
     private boolean skonczone = true;
+    private boolean nie_chce_mi_sie_tego_robic_wiec_robie_bezsensowna_zmienna = true;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -288,6 +289,7 @@ public class JbzdActivity extends AppCompatActivity implements MyAdapter.OnNoteL
             skonczone_pierwszy_raz = false;
             skonczone = true;
             putToRecyclerView();
+
         }
     }
 
@@ -363,13 +365,14 @@ public class JbzdActivity extends AppCompatActivity implements MyAdapter.OnNoteL
     public void onItemSelected(AdapterView<?> parent, View view, int position, long id) {
         String item = parent.getItemAtPosition(position).toString();
         if(haveNetwork()) {
-            strona = 1;
             tytul.clear();
             memeski.clear();
             plusy.clear();
             if (item.equals("Główna")) {
-                connect_server_jbzd(1, "");
                 aktualna_kategoria = "";
+                if(!nie_chce_mi_sie_tego_robic_wiec_robie_bezsensowna_zmienna)
+                    connect_server_jbzd(1, "");
+                nie_chce_mi_sie_tego_robic_wiec_robie_bezsensowna_zmienna = false;
 
             } else {
                 aktualna_kategoria = kategorie.get(position);

@@ -52,6 +52,7 @@ public class FabrykamemowActivity extends AppCompatActivity implements MyAdapter
     private boolean czy_odswiezyc = true;
     private boolean skonczone_pierwszy_raz = true;
     private boolean skonczone = true;
+    private boolean nie_chce_mi_sie_tego_robic_wiec_robie_bezsensowna_zmienna = true;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

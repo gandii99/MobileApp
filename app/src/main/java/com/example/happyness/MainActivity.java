@@ -73,13 +73,15 @@ public class MainActivity extends AppCompatActivity {
                     startActivity(intent);
                 }
             });
-
+/*
         imageView_repostuj.setOnClickListener(e -> {
             if(haveNetwork()) {
                 Intent intent = new Intent(this, RepostujActivity.class);
                 startActivity(intent);
             }
         });
+
+ */
 
     }
 
