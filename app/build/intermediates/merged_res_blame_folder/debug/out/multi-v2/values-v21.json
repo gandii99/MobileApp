@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "outputFile": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
             "map": [
                 {
                     "source": "C:\\Users\\Radek\\.gradle\\caches\\transforms-2\\files-2.1\\478c2f72f5a674c151edcd68f4e3ed62\\jetified-spots-dialog-0.7\\res\\values-v21\\values-v21.xml",

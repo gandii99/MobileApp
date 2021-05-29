@@ -1,6 +1,7 @@
 package com.example.happyness;
 
 import android.Manifest;
+import android.app.ActionBar;
 import android.app.AlertDialog;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
@@ -10,11 +11,13 @@ import android.net.NetworkInfo;
 import android.os.Bundle;
 import android.util.Base64;
 import android.util.Log;
+import android.view.Gravity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ImageButton;
+import android.widget.ImageView;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -67,6 +70,20 @@ public class JbzdActivity extends AppCompatActivity implements MyAdapter.OnNoteL
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        getSupportActionBar().setTitle("");
+        androidx.appcompat.app.ActionBar actionBar = getSupportActionBar();
+        actionBar.setDisplayOptions(actionBar.getDisplayOptions()
+                | ActionBar.DISPLAY_SHOW_CUSTOM);
+        ImageView imageView = new ImageView(actionBar.getThemedContext());
+        imageView.setScaleType(ImageView.ScaleType.CENTER);
+        imageView.setImageResource(R.drawable.jbzd_x50);
+        ActionBar.LayoutParams layoutParams = new ActionBar.LayoutParams(
+                ActionBar.LayoutParams.WRAP_CONTENT,
+                ActionBar.LayoutParams.WRAP_CONTENT, Gravity.RIGHT
+                | Gravity.CENTER_VERTICAL);
+        layoutParams.rightMargin = 40;
+        imageView.setLayoutParams(layoutParams);
+        actionBar.setCustomView(imageView);
         setContentView(R.layout.activity_jbzd);
         recyclerView = findViewById(R.id.recycle_repostuj);
         previous_page = findViewById(R.id.previous_page_repostuj);

@@ -1,9 +1,11 @@
 package com.example.happyness;
 
+import android.app.ActionBar;
 import android.content.Intent;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.Bundle;
+import android.view.Gravity;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
@@ -24,6 +26,21 @@ public class MainActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        androidx.appcompat.app.ActionBar actionBar = getSupportActionBar();
+        actionBar.setDisplayOptions(actionBar.getDisplayOptions()
+                | ActionBar.DISPLAY_SHOW_CUSTOM);
+        ImageView imageView = new ImageView(actionBar.getThemedContext());
+        imageView.setScaleType(ImageView.ScaleType.CENTER);
+        imageView.setImageResource(R.drawable.ic_launcher_x50);
+        ActionBar.LayoutParams layoutParams = new ActionBar.LayoutParams(
+                ActionBar.LayoutParams.WRAP_CONTENT,
+                ActionBar.LayoutParams.WRAP_CONTENT, Gravity.LEFT
+                | Gravity.CENTER_VERTICAL);
+        layoutParams.rightMargin = 40;
+        imageView.setLayoutParams(layoutParams);
+        actionBar.setCustomView(imageView);
+        getSupportActionBar().setTitle("Happyness");
         setContentView(R.layout.activity_main);
 
         imageView_jbzd = findViewById(R.id.home_jbzd);

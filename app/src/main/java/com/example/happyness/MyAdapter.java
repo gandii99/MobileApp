@@ -4,16 +4,13 @@ import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.drawable.BitmapDrawable;
-import android.media.MediaMetadataRetriever;
 import android.net.Uri;
 import android.provider.MediaStore;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Button;
-import android.widget.ImageButton;
 import android.widget.ImageView;
-import android.widget.MediaController;
 import android.widget.TextView;
 import android.widget.Toast;
 import android.widget.VideoView;
@@ -23,12 +20,14 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.squareup.picasso.Picasso;
 
+import java.io.ByteArrayOutputStream;
 import java.util.ArrayList;
 import java.util.List;
 
 
 public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
 
+    private List<Integer> id_plus = new ArrayList<Integer>();
     private List<String> images = new ArrayList();
     private List<String> tytul = new ArrayList();
     private List<Integer> plusy = new ArrayList();
@@ -105,13 +104,25 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
         @Override
         public void onClick(View view) {
             if(view.getId() == mem_plusy.getId()){
-                mem_plusy.setText('+'+String.valueOf(Integer.parseInt(mem_plusy.getText().toString())+1));
+                if(!id_plus.contains(mem_plusy.getId())){
+                    mem_plusy.setText('+'+String.valueOf(Integer.parseInt(mem_plusy.getText().toString())+1));
+                    mem_plusy.setBackgroundColor(0x7F00FF00);
+                    id_plus.add(mem_plusy.getId());
+                }else{
+                    mem_plusy.setText('+'+String.valueOf(Integer.parseInt(mem_plusy.getText().toString())-1));
+                    mem_plusy.setBackgroundColor(0x77990F02);
+                    id_plus.remove(id_plus.indexOf(mem_plusy.getId()));
+                }
+
             }else if(view.getId() == mem_messenger.getId()){
 
                 BitmapDrawable bitmapDrawable = ((BitmapDrawable) mem_obraz.getDrawable());
                 Bitmap bitmap = bitmapDrawable .getBitmap();
-                String bitmapPath = MediaStore.Images.Media.insertImage(view.getContext().getContentResolver(), bitmap,"some title", null);
-                        Uri bitmapUri = Uri.parse(bitmapPath);
+
+                //String bitmapPath = MediaStore.Images.Media.insertImage(view.getContext().getContentResolver(), bitmap,"some title", null);
+                //Uri bitmapUri = Uri.parse(bitmapPath);
+
+                Uri bitmapUri = getImageUri(view.getContext(), bitmap);
                 Intent sendIntent = new Intent();
                 sendIntent.setAction(Intent.ACTION_SEND);
                 sendIntent.putExtra(Intent.EXTRA_STREAM, bitmapUri);
@@ -127,8 +138,10 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
 
                 BitmapDrawable bitmapDrawable = ((BitmapDrawable) mem_obraz.getDrawable());
                 Bitmap bitmap = bitmapDrawable .getBitmap();
-                String bitmapPath = MediaStore.Images.Media.insertImage(view.getContext().getContentResolver(), bitmap,"some title", null);
-                Uri bitmapUri = Uri.parse(bitmapPath);
+
+                //String bitmapPath = MediaStore.Images.Media.insertImage(view.getContext().getContentResolver(), bitmap,"some title", null);
+                //Uri bitmapUri = Uri.parse(bitmapPath);
+                Uri bitmapUri = getImageUri(view.getContext(), bitmap);
                 Intent shareIntent = new Intent(Intent.ACTION_SEND);
                 shareIntent.setType("image/jpeg");
                 shareIntent.putExtra(Intent.EXTRA_STREAM, bitmapUri);
@@ -174,4 +187,10 @@ public class MyAdapter extends RecyclerView.Adapter<MyAdapter.MyViewHolder> {
     }
 
  */
+public Uri getImageUri(Context inContext, Bitmap inImage) {
+    ByteArrayOutputStream bytes = new ByteArrayOutputStream();
+    inImage.compress(Bitmap.CompressFormat.JPEG, 100, bytes);
+    String path = MediaStore.Images.Media.insertImage(inContext.getContentResolver(), inImage, "Title", null);
+    return Uri.parse(path);
+}
 }

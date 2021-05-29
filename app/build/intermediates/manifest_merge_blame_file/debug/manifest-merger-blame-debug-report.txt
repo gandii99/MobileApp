@@ -6,88 +6,89 @@
 6
 7    <uses-sdk
 8        android:minSdkVersion="16"
-8-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml
+8-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml
 9        android:targetSdkVersion="30" />
-9-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml
+9-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:5:5-83
-11-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:5:5-83
+11-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-12-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:6:5-97
-12-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:6:22-78
+12-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:6:5-97
+12-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:6:22-78
 13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-13-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:7:5-80
-13-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:7:22-77
+13-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:7:5-80
+13-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:7:22-77
 14    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-14-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:8:5-79
-14-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:8:22-76
+14-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:8:5-79
+14-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:8:22-76
 15    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
-15-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:9:5-75
-15-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:9:22-73
+15-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:9:5-75
+15-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:9:22-73
 16
 17    <application
-17-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:11:5-33:19
+17-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:11:5-33:19
 18        android:allowBackup="true"
-18-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:12:9-35
+18-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:12:9-35
 19        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 19-->[androidx.core:core:1.3.1] C:\Users\Radek\.gradle\caches\transforms-2\files-2.1\8dbd859d1cd89239b42e7382b4fc40d7\core-1.3.1\AndroidManifest.xml:24:18-86
 20        android:debuggable="true"
 21        android:icon="@mipmap/ic_launcher"
-21-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:13:9-43
+21-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:13:9-43
 22        android:label="@string/app_name"
-22-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:14:9-41
+22-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:14:9-41
 23        android:roundIcon="@mipmap/ic_launcher_round"
-23-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:15:9-54
+23-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:15:9-54
 24        android:supportsRtl="true"
-24-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:16:9-35
-25        android:theme="@style/Theme.Happyness" >
-25-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:17:9-47
-26        <activity android:name="com.example.happyness.ChamskoActivity" />
-26-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:18:9-62
-26-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:18:19-50
-27        <activity android:name="com.example.happyness.FabrykamemowActivity" />
-27-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:19:9-67
-27-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:19:19-55
-28        <activity android:name="com.example.happyness.JbzdActivity" />
-28-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:20:9-59
-28-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:20:19-47
-29        <activity android:name="com.example.happyness.KwejkActivity" />
-29-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:21:9-60
-29-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:21:19-48
-30        <activity android:name="com.example.happyness.RepostujActivity" />
-30-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:22:9-63
-30-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:22:19-51
-31        <activity android:name="com.example.happyness.MainActivity" >
-31-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:23:9-29:20
-31-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:23:19-47
-32            <intent-filter>
-32-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:24:13-28:29
-33                <action android:name="android.intent.action.MAIN" />
-33-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:25:17-69
-33-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:25:25-66
-34
-35                <category android:name="android.intent.category.LAUNCHER" />
-35-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:27:17-77
-35-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:27:27-74
-36            </intent-filter>
-37        </activity>
-38
-39        <meta-data
-39-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:30:9-32:57
-40            android:name="preloaded_fonts"
-40-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:31:13-43
-41            android:resource="@array/preloaded_fonts" />
-41-->C:\Users\Radek\Desktop\Lapek\Happyness\app\src\main\AndroidManifest.xml:32:13-54
-42
-43        <provider
-43-->[com.squareup.picasso:picasso:2.71828] C:\Users\Radek\.gradle\caches\transforms-2\files-2.1\f21d166566fcb7219de58b22a4d66dfe\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
-44            android:name="com.squareup.picasso.PicassoProvider"
-44-->[com.squareup.picasso:picasso:2.71828] C:\Users\Radek\.gradle\caches\transforms-2\files-2.1\f21d166566fcb7219de58b22a4d66dfe\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
-45            android:authorities="com.example.happyness.com.squareup.picasso"
-45-->[com.squareup.picasso:picasso:2.71828] C:\Users\Radek\.gradle\caches\transforms-2\files-2.1\f21d166566fcb7219de58b22a4d66dfe\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
-46            android:exported="false" />
-46-->[com.squareup.picasso:picasso:2.71828] C:\Users\Radek\.gradle\caches\transforms-2\files-2.1\f21d166566fcb7219de58b22a4d66dfe\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
-47    </application>
-48
-49</manifest>
+24-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:16:9-35
+25        android:testOnly="true"
+26        android:theme="@style/Theme.Happyness" >
+26-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:17:9-47
+27        <activity android:name="com.example.happyness.ChamskoActivity" />
+27-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:18:9-62
+27-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:18:19-50
+28        <activity android:name="com.example.happyness.FabrykamemowActivity" />
+28-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:19:9-67
+28-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:19:19-55
+29        <activity android:name="com.example.happyness.JbzdActivity" />
+29-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:20:9-59
+29-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:20:19-47
+30        <activity android:name="com.example.happyness.KwejkActivity" />
+30-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:21:9-60
+30-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:21:19-48
+31        <activity android:name="com.example.happyness.RepostujActivity" />
+31-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:22:9-63
+31-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:22:19-51
+32        <activity android:name="com.example.happyness.MainActivity" >
+32-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:23:9-29:20
+32-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:23:19-47
+33            <intent-filter>
+33-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:24:13-28:29
+34                <action android:name="android.intent.action.MAIN" />
+34-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:25:17-69
+34-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:25:25-66
+35
+36                <category android:name="android.intent.category.LAUNCHER" />
+36-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:27:17-77
+36-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:27:27-74
+37            </intent-filter>
+38        </activity>
+39
+40        <meta-data
+40-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:30:9-32:57
+41            android:name="preloaded_fonts"
+41-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:31:13-43
+42            android:resource="@array/preloaded_fonts" />
+42-->C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:32:13-54
+43
+44        <provider
+44-->[com.squareup.picasso:picasso:2.71828] C:\Users\Radek\.gradle\caches\transforms-2\files-2.1\e01f97115a18b9f9158851e760e9aa9c\jetified-picasso-2.71828\AndroidManifest.xml:8:9-11:40
+45            android:name="com.squareup.picasso.PicassoProvider"
+45-->[com.squareup.picasso:picasso:2.71828] C:\Users\Radek\.gradle\caches\transforms-2\files-2.1\e01f97115a18b9f9158851e760e9aa9c\jetified-picasso-2.71828\AndroidManifest.xml:9:13-64
+46            android:authorities="com.example.happyness.com.squareup.picasso"
+46-->[com.squareup.picasso:picasso:2.71828] C:\Users\Radek\.gradle\caches\transforms-2\files-2.1\e01f97115a18b9f9158851e760e9aa9c\jetified-picasso-2.71828\AndroidManifest.xml:10:13-72
+47            android:exported="false" />
+47-->[com.squareup.picasso:picasso:2.71828] C:\Users\Radek\.gradle\caches\transforms-2\files-2.1\e01f97115a18b9f9158851e760e9aa9c\jetified-picasso-2.71828\AndroidManifest.xml:11:13-37
+48    </application>
+49
+50</manifest>

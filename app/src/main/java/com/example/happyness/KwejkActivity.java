@@ -1,16 +1,19 @@
 package com.example.happyness;
 
 import android.Manifest;
+import android.app.ActionBar;
 import android.app.AlertDialog;
 import android.content.pm.PackageManager;
 import android.net.ConnectivityManager;
 import android.net.NetworkInfo;
 import android.os.Bundle;
+import android.view.Gravity;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
 import android.widget.EditText;
 import android.widget.ImageButton;
+import android.widget.ImageView;
 import android.widget.Spinner;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -64,7 +67,23 @@ public class KwejkActivity extends AppCompatActivity implements MyAdapter.OnNote
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        androidx.appcompat.app.ActionBar actionBar = getSupportActionBar();
+        actionBar.setDisplayOptions(actionBar.getDisplayOptions()
+                | ActionBar.DISPLAY_SHOW_CUSTOM);
+        ImageView imageView = new ImageView(actionBar.getThemedContext());
+        imageView.setScaleType(ImageView.ScaleType.CENTER);
+        imageView.setImageResource(R.drawable.kwejk_x50);
+        ActionBar.LayoutParams layoutParams = new ActionBar.LayoutParams(
+                ActionBar.LayoutParams.WRAP_CONTENT,
+                ActionBar.LayoutParams.WRAP_CONTENT, Gravity.RIGHT
+                | Gravity.CENTER_VERTICAL);
+        layoutParams.rightMargin = 40;
+        imageView.setLayoutParams(layoutParams);
+        actionBar.setCustomView(imageView);
+        getSupportActionBar().setTitle("");
         setContentView(R.layout.activity_kwejk);
+
 
         recyclerView = findViewById(R.id.recycle_kwejk);
         previous_page = findViewById(R.id.previous_page_kwejk);

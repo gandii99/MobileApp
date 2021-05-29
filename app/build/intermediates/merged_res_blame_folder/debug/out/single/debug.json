@@ -1,190 +1,226 @@
 [
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jbzd.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\jbzd.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jbzd_x50.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\jbzd_x50.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chamsko.xml.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\layout\\activity_chamsko.xml"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kwejk_appbar.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\kwejk_appbar.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fabrykamemow.xml.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\layout\\activity_fabrykamemow.xml"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fabrykamemow.jpg.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\drawable\\fabrykamemow.jpg"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jbzd_appbar.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\jbzd_appbar.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share.jpg.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\share.jpg"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_messenger_mini.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\logo_messenger_mini.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_jbzd.xml.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\layout\\activity_jbzd.xml"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fabrykamemow.xml.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\layout\\activity_fabrykamemow.xml"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_mini2.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\drawable\\share_mini2.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_removebg_preview.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\drawable\\share_removebg_preview.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_mini.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\share_mini.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kwejk.xml.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\layout\\activity_kwejk.xml"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable_webp_net_resizeimage.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\drawable\\webp_net_resizeimage.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chamsko_x50.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\chamsko_x50.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_row.xml.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\layout\\my_row.xml"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rsz_logo_messenger_removebg_preview.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\rsz_logo_messenger_removebg_preview.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kwejk.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\kwejk.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_messenger_mini.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\drawable\\logo_messenger_mini.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_spiner_item.xml.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\layout\\spiner_item.xml"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kwejk.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\drawable\\kwejk.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\layout_spiner_item.xml.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\layout\\spiner_item.xml"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_chamsko.xml.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\layout\\activity_chamsko.xml"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\layout\\activity_main.xml"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_repostuj.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\repostuj.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share.jpg.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\drawable\\share.jpg"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fabrykamemow.jpg.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\fabrykamemow.jpg"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kwejk_x50.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\kwejk_x50.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_mini2.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\share_mini2.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rsz_logo_messenger_removebg_preview.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\drawable\\rsz_logo_messenger_removebg_preview.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_mini.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\drawable\\share_mini.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jbzd.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\drawable\\jbzd.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chamsko_appbar.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\chamsko_appbar.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_row.xml.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\layout\\my_row.xml"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_x50.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\ic_launcher_x50.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable_repostuj.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\drawable\\repostuj.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chamsko.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\drawable\\chamsko.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_jbzd.xml.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\layout\\activity_jbzd.xml"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chamsko.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\chamsko.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\font_abeezee.xml.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\font\\abeezee.xml"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fabrykamemow_x50.jpg.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\fabrykamemow_x50.jpg"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_repostuj.xml.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\layout\\activity_repostuj.xml"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_removebg_preview.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\share_removebg_preview.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fabrykamemow_appbar.jpg.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\fabrykamemow_appbar.jpg"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_repostuj.xml.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\layout\\activity_repostuj.xml"
     },
     {
-        "merged": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_messenger.png.flat",
-        "source": "C:\\Users\\Radek\\Desktop\\Lapek\\Happyness\\app\\src\\main\\res\\drawable\\logo_messenger.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_kwejk.xml.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\layout\\activity_kwejk.xml"
+    },
+    {
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\font_abeezee.xml.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\font\\abeezee.xml"
+    },
+    {
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_webp_net_resizeimage.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\webp_net_resizeimage.png"
+    },
+    {
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_messenger.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\logo_messenger.png"
+    },
+    {
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
     }
 ]
