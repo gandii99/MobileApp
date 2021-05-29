@@ -16,16 +16,12 @@
         "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kwejk_appbar.png.flat",
-        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\kwejk_appbar.png"
+        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
         "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
-    },
-    {
-        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_fabrykamemow.xml.flat",
@@ -36,20 +32,8 @@
         "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_jbzd_appbar.png.flat",
-        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\jbzd_appbar.png"
-    },
-    {
         "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share.jpg.flat",
-        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\share.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_messenger_mini.png.flat",
-        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\logo_messenger_mini.png"
     },
     {
         "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
@@ -68,10 +52,6 @@
         "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_mini.png.flat",
-        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\share_mini.png"
-    },
-    {
         "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_foreground.png.flat",
         "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
     },
@@ -86,10 +66,6 @@
     {
         "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_my_row.xml.flat",
         "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\layout\\my_row.xml"
-    },
-    {
-        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rsz_logo_messenger_removebg_preview.png.flat",
-        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\rsz_logo_messenger_removebg_preview.png"
     },
     {
         "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_kwejk.png.flat",
@@ -136,20 +112,12 @@
         "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\kwejk_x50.png"
     },
     {
-        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_mini2.png.flat",
-        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\share_mini2.png"
-    },
-    {
         "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
         "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
     },
     {
         "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
-    },
-    {
-        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_chamsko_appbar.png.flat",
-        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\chamsko_appbar.png"
     },
     {
         "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_x50.png.flat",
@@ -170,14 +138,6 @@
     {
         "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fabrykamemow_x50.jpg.flat",
         "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\fabrykamemow_x50.jpg"
-    },
-    {
-        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_share_removebg_preview.png.flat",
-        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\share_removebg_preview.png"
-    },
-    {
-        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_fabrykamemow_appbar.jpg.flat",
-        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\fabrykamemow_appbar.jpg"
     },
     {
         "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_repostuj.xml.flat",
@@ -206,10 +166,6 @@
     {
         "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\font_abeezee.xml.flat",
         "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\font\\abeezee.xml"
-    },
-    {
-        "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_webp_net_resizeimage.png.flat",
-        "source": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\src\\main\\res\\drawable\\webp_net_resizeimage.png"
     },
     {
         "merged": "C:\\Users\\Radek\\AndroidStudioProjects\\MobileApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable_logo_messenger.png.flat",

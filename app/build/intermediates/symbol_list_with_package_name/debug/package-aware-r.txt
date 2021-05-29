@@ -1652,7 +1652,6 @@ drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
 drawable chamsko
-drawable chamsko_appbar
 drawable chamsko_x50
 drawable design_bottom_navigation_item_background
 drawable design_fab_background
@@ -1662,7 +1661,6 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable dmax_spots_spot
 drawable fabrykamemow
-drawable fabrykamemow_appbar
 drawable fabrykamemow_x50
 drawable ic_clock_black_24dp
 drawable ic_keyboard_black_24dp
@@ -1674,13 +1672,10 @@ drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
 drawable jbzd
-drawable jbzd_appbar
 drawable jbzd_x50
 drawable kwejk
-drawable kwejk_appbar
 drawable kwejk_x50
 drawable logo_messenger
-drawable logo_messenger_mini
 drawable material_cursor_drawable
 drawable material_ic_calendar_black_24dp
 drawable material_ic_clear_black_24dp
@@ -1714,15 +1709,9 @@ drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
 drawable repostuj
-drawable rsz_logo_messenger_removebg_preview
-drawable share
-drawable share_mini
-drawable share_mini2
-drawable share_removebg_preview
 drawable test_custom_background
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
-drawable webp_net_resizeimage
 font abeezee
 id ALT
 id BOTTOM_END
