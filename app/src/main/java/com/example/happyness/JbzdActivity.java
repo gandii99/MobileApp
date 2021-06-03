@@ -140,6 +140,10 @@ public class JbzdActivity extends AppCompatActivity implements MyAdapter.OnNoteL
             connect_server_jbzd(1, "");
         }
         reload.setOnClickListener(e->{
+            recyclerView.stopScroll();
+            recyclerView.setVerticalScrollbarPosition(0);
+            recyclerView.resetPivot();
+            recyclerView.setNestedScrollingEnabled(false);
             if(haveNetwork()) {
                 tytul.clear();
                 memeski.clear();
@@ -152,6 +156,10 @@ public class JbzdActivity extends AppCompatActivity implements MyAdapter.OnNoteL
         });
 
         previous_page.setOnClickListener(e->{
+            recyclerView.stopScroll();
+            recyclerView.setVerticalScrollbarPosition(0);
+            recyclerView.resetPivot();
+            recyclerView.setNestedScrollingEnabled(false);
             if(haveNetwork()) {
                 if (strona <= 1) {
                     Toast.makeText(JbzdActivity.this, "This is 1 page!", Toast.LENGTH_SHORT).show();
@@ -168,7 +176,12 @@ public class JbzdActivity extends AppCompatActivity implements MyAdapter.OnNoteL
         });
 
         next_page.setOnClickListener(e->{
+            recyclerView.stopScroll();
+            recyclerView.setVerticalScrollbarPosition(0);
+            recyclerView.resetPivot();
+            recyclerView.setNestedScrollingEnabled(false);
             if(haveNetwork()) {
+
                 if (number_page.getText().toString() != null && !number_page.getText().toString().isEmpty()) {
                     strona = Integer.parseInt(number_page.getText().toString());
                 } else {

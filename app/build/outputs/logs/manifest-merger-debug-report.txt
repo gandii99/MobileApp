@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:1-35:12
+ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:1-41:12
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\Radek\.gradle\caches\transforms-2\files-2.1\0b040ae6fd7360855475a012c5af81a6\material-1.3.0\AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Radek\.gradle\caches\transforms-2\files-2.1\73327337a728e12c5c3cdecdb4b7e327\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
 MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Radek\.gradle\caches\transforms-2\files-2.1\44b21666f861b2b454523071d69d07d7\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
@@ -41,20 +41,20 @@ MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Radek\.gradle
 MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Radek\.gradle\caches\transforms-2\files-2.1\1435e0b5216c3fd72a2d6579c29d3ee1\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Radek\.gradle\caches\transforms-2\files-2.1\035487676af6db782633ffbdc1d98b21\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Radek\.gradle\caches\transforms-2\files-2.1\3fd5b4b866d23b43b0e15439a0ee99e7\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:1-35:12
-INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:1-35:12
+INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:1-41:12
+INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:1-41:12
 	package
 		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:3:5-36
 		INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:1-35:12
+		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:1-41:12
 		INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:1-35:12
+		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:1-41:12
 		INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:2:11-69
@@ -79,7 +79,7 @@ ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidMa
 	android:name
 		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:9:22-73
 application
-ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:11:5-33:19
+ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:11:5-39:19
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\Radek\.gradle\caches\transforms-2\files-2.1\0b040ae6fd7360855475a012c5af81a6\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.3.0] C:\Users\Radek\.gradle\caches\transforms-2\files-2.1\0b040ae6fd7360855475a012c5af81a6\material-1.3.0\AndroidManifest.xml:22:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Radek\.gradle\caches\transforms-2\files-2.1\73327337a728e12c5c3cdecdb4b7e327\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
@@ -107,45 +107,57 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Ra
 	android:theme
 		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:17:9-47
 activity#com.example.happyness.ChamskoActivity
-ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:18:9-62
+ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:18:9-19:61
+	android:screenOrientation
+		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:19:13-49
 	android:name
 		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:18:19-50
 activity#com.example.happyness.FabrykamemowActivity
-ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:19:9-67
+ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:20:9-21:61
+	android:screenOrientation
+		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:21:13-49
 	android:name
-		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:19:19-55
+		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:20:19-55
 activity#com.example.happyness.JbzdActivity
-ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:20:9-59
+ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:22:9-23:61
+	android:screenOrientation
+		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:23:13-49
 	android:name
-		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:20:19-47
+		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:22:19-47
 activity#com.example.happyness.KwejkActivity
-ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:21:9-60
+ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:24:9-25:61
+	android:screenOrientation
+		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:25:13-49
 	android:name
-		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:21:19-48
+		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:24:19-48
 activity#com.example.happyness.RepostujActivity
-ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:22:9-63
+ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:26:9-27:61
+	android:screenOrientation
+		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:27:13-49
 	android:name
-		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:22:19-51
+		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:26:19-51
 activity#com.example.happyness.MainActivity
-ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:23:9-29:20
+ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:28:9-35:20
+	android:screenOrientation
+		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:29:13-49
 	android:name
-		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:23:19-47
+		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:28:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:24:13-28:29
+ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:30:13-34:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:25:17-69
+ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:31:17-69
 	android:name
-		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:25:25-66
+		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:31:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:27:17-77
+ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:33:17-77
 	android:name
-		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:27:27-74
+		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:33:27-74
 meta-data#preloaded_fonts
-ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:30:9-32:57
+ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:36:9-38:57
 	android:resource
-		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:32:13-54
+		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:38:13-54
 	android:name
-		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:31:13-43
+		ADDED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml:37:13-43
 uses-sdk
 INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Radek\AndroidStudioProjects\MobileApp\app\src\main\AndroidManifest.xml

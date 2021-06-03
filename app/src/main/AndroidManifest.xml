@@ -15,12 +15,18 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Happyness">
-        <activity android:name=".ChamskoActivity"></activity>
-        <activity android:name=".FabrykamemowActivity"></activity>
-        <activity android:name=".JbzdActivity"></activity>
-        <activity android:name=".KwejkActivity"></activity>
-        <activity android:name=".RepostujActivity"></activity>
-        <activity android:name=".MainActivity">
+        <activity android:name=".ChamskoActivity"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".FabrykamemowActivity"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".JbzdActivity"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".KwejkActivity"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".RepostujActivity"
+            android:screenOrientation="portrait"></activity>
+        <activity android:name=".MainActivity"
+            android:screenOrientation="portrait">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

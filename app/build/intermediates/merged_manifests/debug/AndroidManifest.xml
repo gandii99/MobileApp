@@ -24,12 +24,24 @@
         android:supportsRtl="true"
         android:testOnly="true"
         android:theme="@style/Theme.Happyness" >
-        <activity android:name="com.example.happyness.ChamskoActivity" />
-        <activity android:name="com.example.happyness.FabrykamemowActivity" />
-        <activity android:name="com.example.happyness.JbzdActivity" />
-        <activity android:name="com.example.happyness.KwejkActivity" />
-        <activity android:name="com.example.happyness.RepostujActivity" />
-        <activity android:name="com.example.happyness.MainActivity" >
+        <activity
+            android:name="com.example.happyness.ChamskoActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.happyness.FabrykamemowActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.happyness.JbzdActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.happyness.KwejkActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.happyness.RepostujActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="com.example.happyness.MainActivity"
+            android:screenOrientation="portrait" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
